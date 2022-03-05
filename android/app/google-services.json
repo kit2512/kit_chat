@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "48859694134",
+    "project_id": "fir-config-a4806",
+    "storage_bucket": "fir-config-a4806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48859694134:android:c4858917c0ea3986304497",
+        "android_client_info": {
+          "package_name": "com.example.kit_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48859694134-0ltlgqtq7rk6mprus8a0r40obkngnvqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtjurHdBlDI40kit9aDmpQE3vmtw-Ww7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48859694134-0ltlgqtq7rk6mprus8a0r40obkngnvqt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "48859694134-vt6koj7423voqc6tsecjuf42s85jrdk4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kitChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

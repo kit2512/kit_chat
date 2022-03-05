@@ -1,0 +1,46 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        // {
+        //     "name": "kit_chat",
+        //     "request": "launch",
+        //     "type": "dart"
+        // },
+        // {
+        //     "name": "kit_chat (profile mode)",
+        //     "request": "launch",
+        //     "type": "dart",
+        //     "flutterMode": "profile"
+        // },
+
+        {
+            "name": "Android",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "emulator-5554"
+        },
+        {
+            "name": "iPhone13",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "09780702-5168-4DC0-A604-E91C8A45E714"
+        },
+        // {
+        //     "name": "kit_chat (release mode)",
+        //     "request": "launch",
+        //     "type": "dart",
+        //     "flutterMode": "release"
+        // }
+    ],
+    "compounds": [
+        {
+            "name": "All devices",
+            "configurations": [
+                "Android", "iPhone13"
+            ]
+        }
+    ]
+}
